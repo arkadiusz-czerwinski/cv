@@ -24,7 +24,7 @@ creating reliable and scalable state-of-the-art Data Science solutions.
 
 ## 👩🏼‍💻 Technical Experience
 
-**Data Scientist** @ Flyr _(September 2018 - Present)_ <br>
+**Data Scientist** @ Flyr _(07.2022 – Present)_ <br>
 
   - Performing Architectiural reaserch
   - Rewriting parts of tensorflow training logic to improve flexibility of model profiling.
@@ -33,11 +33,12 @@ creating reliable and scalable state-of-the-art Data Science solutions.
   - Migrating MLops pipelines to new enviroments.
   - Reducing training costs and adressing accelerator shortages. 
   - Introducing experiment tracking to current trainnig pipelines.
+  <br>
   **_Technologies used:_** Python, GCP, K8S, Tensorflow, Polars, Beam, BigQuery
 <br><br>
 
 
-**Data Scientist** @ EMAG _(January 2020 - March 2022)_ <br>
+**Data Scientist** @ EMAG _(03.2021 – 07.2023)_ <br>
 - Deployed machine learning platforms with automatic health checks, fault recovery, model interpretability and monitoring.
 - Trained/fine-tunef=d state-of-the-art multimodal generative models from textual, image and time
 series data, and created explainability tools for the aforementioned models.
@@ -49,21 +50,14 @@ series data, and created explainability tools for the aforementioned models.
 **_Technologies used:_** Python, Pytorch, Dask, Python, Huggingface, Pandas, Airflow, GCP, K8s, Grafana, Prometheus, W&b.
 <br><br>
 
-**Data Scientist** @ AIUT _(July 2019 - January 2020)_ <br>
-  - Responsible for the productivity platform for teams.
-  - Responsible for a ML infrastructure to help productivity.
+**Data Scientist** @ AIUT _(06.2019 – 02.2021)_ <br>
+  - Created data processing pipelines based on Apache Stack for both real-time and batch high-performance processing, designs database schemas, performs data analysis.
+  - Monitored and scaled deployments based on on-premise and cloud solutions.
   - Managing and maintaining infrastructure using Kubernetes (K8s) and AWS
-  - Creating the mobile application for support productivity. <br>
-  **_Technologies used:_** Python (Pyramid, Tensorflow, Pandas), Flutter, Dart, Node.
+  - Deployed and managed SQL and NoSQL databases both locally and in the cloud, enabling the
+use of features such as sharding and replicating data through replica sets (rs). <br>
+  **_Technologies used:_** Python, Tensorflow, Pyspark, MongoDB, Azure
 <br><br>
-
-**Junior Data Scientist** @ AIUT _(September 2018 - July 2019)_ <br>
-  - As an architect prepare and delivered MVP the application for the pharmaceutical company called Roche.
-  - Responsible for proxy platform to handle transform data with dynamic business rules. Client was the Spanish Fintech.
-  - Responsible for the serverless platform to handle communication with norway banks for the Norway Fintech company. <br>
-  - Managing and maintaining infrastructure using Kubernetes (K8s), Azure and AWS
-  **_Technologies used:_** C#, .Net Core, AWS, Kotlin, Python, Node.
-    <br><br>
     
 <!-- ## 🗞 Youtuber Experience
 
