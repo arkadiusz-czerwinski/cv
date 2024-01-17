@@ -1,12 +1,11 @@
 # Mateusz (Matthew) Kubaszek
 
-_Senior Software engineer/Tech Lead/Architect based in Opole, Poland_ <br>
+_ Senior Data Scientist / AI Engineer based in Katowice, Poland_ <br>
 
-Email: m.kubaszek@protonmail.com or mkubasz@gmail.com  / 
+Email: arek.pawel.czerwinski@gmail.com  / 
 
-[LinkedIn](https://www.linkedin.com/in/%F0%9F%A7%99-mateusz-kubaszek-58306466/) / 
-[GitHub](https://github.com/mkubasz/) / 
-[Twitter](https://twitter.com/MateuszKubaszek/)
+[LinkedIn](https://www.linkedin.com/in/arkadiusz-czerwinski/) / 
+[GitHub](https://github.com/arkadiusz-czerwinski) / 
 
 ## About position?
 
