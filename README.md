@@ -34,7 +34,8 @@ creating reliable and scalable state-of-the-art Data Science solutions.
   - Reducing training costs and adressing accelerator shortages. 
   - Introducing experiment tracking to current trainnig pipelines.
   <br>
-  **_Technologies used:_** Python, GCP, K8S, Tensorflow, Polars, Beam, BigQuery
+
+**_Technologies used:_** Python, GCP, K8S, Tensorflow, Polars, Beam, BigQuery
 <br><br>
 
 
@@ -44,9 +45,8 @@ creating reliable and scalable state-of-the-art Data Science solutions.
 series data, and created explainability tools for the aforementioned models.
 - Distributed data preprocessing and model training across different machines and gpu clusters.
 - Deployed machine learning platforms with automatic health checks, fault recovery, model interpretability and monitoring.
-
-
 <br>
+
 **_Technologies used:_** Python, Pytorch, Dask, Python, Huggingface, Pandas, Airflow, GCP, K8s, Grafana, Prometheus, W&b.
 <br><br>
 
@@ -55,8 +55,10 @@ series data, and created explainability tools for the aforementioned models.
   - Monitored and scaled deployments based on on-premise and cloud solutions.
   - Managing and maintaining infrastructure using Kubernetes (K8s) and AWS
   - Deployed and managed SQL and NoSQL databases both locally and in the cloud, enabling the
-use of features such as sharding and replicating data through replica sets (rs). <br>
-  **_Technologies used:_** Python, Tensorflow, Pyspark, MongoDB, Azure
+use of features such as sharding and replicating data through replica sets (rs).
+<br>
+
+**_Technologies used:_** Python, Tensorflow, Pyspark, MongoDB, Azure
 <br><br>
     
 <!-- ## 🗞 Youtuber Experience
