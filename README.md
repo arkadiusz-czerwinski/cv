@@ -146,7 +146,7 @@ Topic: Distributed
 ## 💬 Languages
 
 **Polish**: Native <br>
-**English**: C1+
+**English**: C1+ <br>
 **German** A2
 <br><br>
 
