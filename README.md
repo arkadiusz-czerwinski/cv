@@ -1,6 +1,5 @@
-# Mateusz (Matthew) Kubaszek
-
-_ Senior Data Scientist / AI Engineer based in Katowice, Poland_ <br>
+# Arkadiusz Czerwiński
+_Senior Data Scientist / AI Engineer based in Katowice, Poland_ <br>
 
 Email: arek.pawel.czerwinski@gmail.com  / 
 
