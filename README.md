@@ -1,7 +1,7 @@
 # Arkadiusz Czerwiński
 _Senior Data Scientist / AI Engineer based in Katowice, Poland_ <br>
 
-Email: arek.pawel.czerwinski@gmail.com  / 
+Email: arek.pawel.czerwinski@gmail.com  
 
 [LinkedIn](https://www.linkedin.com/in/arkadiusz-czerwinski/) / 
 [GitHub](https://github.com/arkadiusz-czerwinski) 
