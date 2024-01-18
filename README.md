@@ -6,7 +6,7 @@ Email: arek.pawel.czerwinski@gmail.com
 [LinkedIn](https://www.linkedin.com/in/arkadiusz-czerwinski/) / 
 [GitHub](https://github.com/arkadiusz-czerwinski) 
 
-## About position?
+## About me
 
 I am a PhD candidate at the Silesian University of Technology. I have over 4 years of
 commercial experience in the field of AI/ML, preceded by a year of experience in medical
@@ -18,33 +18,31 @@ creating reliable and scalable state-of-the-art Data Science solutions.
 ## My stack:
  - Languages: Python, c++
  - Clouds: Azure, Google Cloud
- - Devops: sMLOps, Docker, K8s, Github
+ - Devops: MLOps, Docker, K8s, Github
  - Data Science Topics: Distributed computing, LLM's, Generative AI, Time-series analysis
- - ML frameworks: Pytorch, Dask, Tensorflow
+ - ML frameworks: Pytorch, Dask, TensorFlow
 
 ## 👩🏼‍💻 Technical Experience
 
 **Data Scientist** @ Flyr _(07.2022 – Present)_ <br>
 
-  - Performing Architectiural reaserch
-  - Rewriting parts of tensorflow training logic to improve flexibility of model profiling.
   - Creating state-of-the-art time series forecasting models for customer behavior prediction.
-  - Performing architectural reaserch and testing connected hypothesis. 
-  - Migrating MLops pipelines to new enviroments.
+  - Introducing experiment tracking to current training pipelines.
   - Reducing training costs and adressing accelerator shortages. 
-  - Introducing experiment tracking to current trainnig pipelines.
+  - Modifying TensorFlow source code to improve flexibility of model profiling.
+  - Migrating MLops pipelines to new enviroments.
+  - Performing architectural reaserch and testing connected hypothesis. 
   <br>
 
-**_Technologies used:_** Python, GCP, K8S, Tensorflow, Polars, Beam, BigQuery
+**_Technologies used:_** Python, GCP, K8S, Tensorflow, Polars, Beam, BigQuery, W&b.
 <br><br>
 
 
 **Data Scientist** @ EMAG _(03.2021 – 07.2023)_ <br>
 - Deployed machine learning platforms with automatic health checks, fault recovery, model interpretability and monitoring.
-- Trained/fine-tunef=d state-of-the-art multimodal generative models from textual, image and time
+- Trained/fine-tuned state-of-the-art multimodal generative models from textual, image and time
 series data, and created explainability tools for the aforementioned models.
 - Distributed data preprocessing and model training across different machines and gpu clusters.
-- Deployed machine learning platforms with automatic health checks, fault recovery, model interpretability and monitoring.
 <br>
 
 **_Technologies used:_** Python, Pytorch, Dask, Python, Huggingface, Pandas, Airflow, GCP, K8s, Grafana, Prometheus, W&b.
@@ -98,15 +96,19 @@ Topic: Distributed
 
 **Polish**: Native <br>
 **English**: C1+ <br>
-**German** A2
+**German** A1
 <br><br>
 
-<!-- ## 👩🏼‍🎓 Education
+## 👩🏼‍🎓 Education
 
-**Master of Engineering** in Technical University in Opole<br>
-Thesis: Comparative analysis of the implementation of selected Data Science algorithms in Rust and Python<br>
-Opole, Poland _(2017 - 2019)_
+**PhD** at Silesian University of Technology<br>
+Thesis: Multimodal data analysis using deep learning.<br>
+Katowice, Poland 10.2023 - Present
 
-**Bachelor of Engineering** in University in Opole<br>
-Thesis: Distributed system in blockchain<br>
-Opole, Poland _(2013 - 2017)_ -->
+**Master of Engineering** at Silesian University of Technology<br>
+Computer science studies with specialization in IoT and Data Science<br>
+Katowice, Poland 03.2021 - 07.2022
+
+**Bachelor of Engineering** at Silesian University of Technology<br>
+Interdisciplinary studies in control, electronic and information engineering with specialization in informatics<br>
+Katowice, Poland 10.2017 - 02.2021
