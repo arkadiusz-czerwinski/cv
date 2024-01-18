@@ -92,7 +92,7 @@ Topic: Distributed
 ## 🏆 Accomplishments
 
 **The National Collegiate Programming Contest** @ [AMPPZZ](http://amppz.mimuw.edu.pl/) _(2014, 2015, 2016)_
-<br><br> --> -->
+<br><br> -->
 
 ## 💬 Languages
 
